@@ -7,5 +7,5 @@ metadata:
 spec:
   class: org.apache.camel.kafkaconnector.filewatch.CamelFilewatchSourceConnector
   config:
-    camel.source.path.path: PATH
+    camel.source.path.path: /tmp
   tasksMax: 1
